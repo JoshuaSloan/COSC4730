@@ -1,0 +1,21 @@
+[submodule "program1-JoshuaSloan"]
+	path = program1-JoshuaSloan
+	url = https://github.com/cosc4730/program1-JoshuaSloan
+[submodule "program2-JoshuaSloan"]
+	path = program2-JoshuaSloan
+	url = https://github.com/cosc4730/program2-JoshuaSloan
+[submodule "program3-JoshuaSloan"]
+	path = program3-JoshuaSloan
+	url = https://github.com/cosc4730/program3-JoshuaSloan
+[submodule "program4-JoshuaSloan"]
+	path = program4-JoshuaSloan
+	url = https://github.com/cosc4730/program4-JoshuaSloan
+[submodule "program5-JoshuaSloan"]
+	path = program5-JoshuaSloan
+	url = https://github.com/cosc4730/program5-JoshuaSloan
+[submodule "prgram6-JoshuaSloan"]
+	path = prgram6-JoshuaSloan
+	url = https://github.com/cosc4730/prgram6-JoshuaSloan
+[submodule "program7-JoshuaSloan"]
+	path = program7-JoshuaSloan
+	url = https://github.com/cosc4730/program7-JoshuaSloan
